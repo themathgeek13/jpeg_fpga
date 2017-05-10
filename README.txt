@@ -12,6 +12,3 @@ Compressed input image (expected output from C program): compressed.dat
 4> Testbench code for HLS (runs on the original.dat file and prints values that can be compared with the "golden" compressed.dat file): jpeg_tb.cpp
 
 5> SDK code for Zynq processor: jpeg_sdk.c
-
-6> Report: EE5703_EE14B118.pdf
-
