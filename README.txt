@@ -6,6 +6,7 @@ Compressed input image (expected output from C program): compressed.dat
    Additional details on blog: https://wowelec.wordpress.com/2017/04/08/building-a-jpeg-compression-engine/
 
 2> Linux based C implementation (file read used): JPEG_CompressionC.c
+   Additional details on blog: https://wowelec.wordpress.com/2017/05/10/building-a-jpeg-compression-engine-ii/
 
 3> Synthesizable HLS code (various optimizations done): jpeg_hls.cpp
 
